@@ -6,7 +6,7 @@ w3 = Web3(Web3.HTTPProvider('https://1rpc.io/bnb'))
 contract_address = '0xEC4549caDcE5DA21Df6E6422d448034B5233bFbC'
 function_signature = '0x3deec419'
 
-# contract address, change 1 to whatever. e.g. 0.1 for 0.1 BNB etc., leave as is
+# contract address of coin, change 1 to whatever. e.g. 0.1 for 0.1 BNB etc., leave as is
 input_params = ['0x5c9e15ff4aded6b1ebcbc83f18f6554175bd82ac', 1000000000000000000 * 1, 1000000]
 
 
