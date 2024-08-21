@@ -32,7 +32,7 @@ tx = {
     'gasPrice': w3.to_wei('3', 'gwei'),
     'nonce': nonce,
     'chainId': 56,  # Binance Smart Chain mainnet chainId
-    'value': int(1100000000000000000 * amount)  # change 1 to whatever. e.g. 0.1 for 0.1 BNB etc.
+    'value': int(1100000000000000000 * amount) 
 }
 
 
