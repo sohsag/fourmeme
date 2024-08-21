@@ -5,7 +5,7 @@ w3 = Web3(Web3.HTTPProvider('https://1rpc.io/bnb'))
 
 contract_address = '0xEC4549caDcE5DA21Df6E6422d448034B5233bFbC'
 public_key = ""  # CHANGE THIS
-amount = 0.1  # change 1 to whatever. e.g. 0.1 for 0.1 BNB etc. # CHANGE THIS
+amount = 1  # change 1 to whatever. e.g. 0.1 for 0.1 BNB etc. # CHANGE THIS
 private_key = ""  # CHANGE THIS. put 0x in front of privkey
 contract_address_of_coin = ""  # CHANGE THIS
 
